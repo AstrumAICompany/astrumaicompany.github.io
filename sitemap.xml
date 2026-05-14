@@ -5,40 +5,7 @@
         <loc>https://astrumais.com/</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.690Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://astrumais.com/about/</loc>
-    
-        
-        <lastmod>2026-05-10T16:06:09.698Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://astrumais.com/blog/blog-single.html</loc>
-    
-        
-        <lastmod>2026-05-10T16:06:09.704Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://astrumais.com/blog/</loc>
-    
-        
-        <lastmod>2026-05-10T16:06:09.712Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.761Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -49,7 +16,7 @@
         <loc>https://astrumais.com/careers/devops-engineer.html</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.723Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.793Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -60,7 +27,7 @@
         <loc>https://astrumais.com/careers/</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.727Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.797Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -71,7 +38,40 @@
         <loc>https://astrumais.com/careers/machine-learning-expert copy.html</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.741Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.809Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/about/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.777Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/blog/blog-single.html</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.840Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/blog/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.840Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -82,7 +82,7 @@
         <loc>https://astrumais.com/contact/</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.747Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.824Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -93,29 +93,7 @@
         <loc>https://astrumais.com/faqs/</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.754Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://astrumais.com/team/</loc>
-    
-        
-        <lastmod>2026-05-10T16:06:09.759Z</lastmod>
-    
-        
-        <changefreq>daily</changefreq>
-    
-    </url>
-    <url>
-        
-        <loc>https://astrumais.com/team/team-single.html</loc>
-    
-        
-        <lastmod>2026-05-10T16:06:09.761Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.819Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -126,7 +104,7 @@
         <loc>https://astrumais.com/pricing/</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.759Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.858Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -134,10 +112,21 @@
     </url>
     <url>
         
-        <loc>https://astrumais.com/works/</loc>
+        <loc>https://astrumais.com/team/</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.761Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.883Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/team/team-single.html</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.883Z</lastmod>
     
         
         <changefreq>daily</changefreq>
@@ -148,7 +137,84 @@
         <loc>https://astrumais.com/services/</loc>
     
         
-        <lastmod>2026-05-10T16:06:09.761Z</lastmod>
+        <lastmod>2026-05-14T18:43:35.868Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/works/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.883Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/services/agentic-ai-systems/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.884Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/services/ai-consulting-and-strategy/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.884Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/services/ai-driven-automation/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.885Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/services/ai-cloud-deployment/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.884Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/services/ai-enhanced-software-development/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.885Z</lastmod>
+    
+        
+        <changefreq>daily</changefreq>
+    
+    </url>
+    <url>
+        
+        <loc>https://astrumais.com/services/ai-recommendation-engine/</loc>
+    
+        
+        <lastmod>2026-05-14T18:43:35.885Z</lastmod>
     
         
         <changefreq>daily</changefreq>
